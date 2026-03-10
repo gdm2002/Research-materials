@@ -1,0 +1,9 @@
+PREFIX LCI: http://www.semanticweb.org/dongmig/ontologies/2021/8/untitled-ontology-86#
+Select ?Ave_Gray ?Min_Gray ?Max_Gray ?Gray_energy_unit
+Where
+{
+Component/Material Class_Name LCI:Ave_Gray_energy ?Ave_Gray
+Component/Material Class_Name LCI:Min_Gray_energy_unit ?Min_Gray 
+Component/Material Class_Name LCI:Max_Gray_energy ?Max_Gray
+Component/Material Class_Name LCI:Gray_energy_unit ?Gray_energy_unit
+}
