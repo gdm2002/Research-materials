@@ -1,2 +1,3 @@
 # Research-materials
-Some codes and ontologies
+Some python codes and ontologies for ACC or environmental impact evaluation
+
