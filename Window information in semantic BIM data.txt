@@ -1,0 +1,22 @@
+
+inst:IfcWindow_6371
+       rdf:type ifc:IfcWindow .
+
+inst:IfcRelDefinesByProperties_37922
+       ifc:globalId_IfcRoot inst:IfcGloballyUniqueId_87395 ;
+       ifc:relatedObjects_IfcRelDefines inst:IfcWindow_6371 ;
+       ifc:relatingPropertyDefinition_IfcRelDefinesByProperties  inst:IfcPropertySet_6444. 
+
+inst:IfcPropertySet_6444  
+       ifc:hasProperties_IfcPropertySet inst:IfcPropertySingleValue_6390
+inst:IfcLengthMeasure_46128
+        rdf:type           ifc:IfcLengthMeasure ;
+        express:hasDouble  "2.42"^^xsd:double .
+
+inst:IfcIdentifier_38539
+        rdf:type           ifc:IfcIdentifier ;
+        express:hasString  "Area" .
+
+inst:IfcPropertySingleValue_190
+        ifc:name_IfcProperty  inst:IfcIdentifier_38539 ;
+        ifc:nominalValue_IfcPropertySingleValue  inst:IfcAreaMeasure_38355 .
