@@ -1,0 +1,35 @@
+﻿second floor windows
+
+PATH query
+--------------------------------------------------
+PATHS START ?x 
+END ?p =ifc:IfcWindow  
+VIA ?z
+
+PATHS START ?x 
+END ?y="Level 2"
+VIA ?z
+
+SPARQL query ()
+------------------------------------------------------------------
+prefix ifc:  <http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#> 
+prefix inst:  <http://linkedbuildingdata.net/ifc/resources20200913_105555/> 
+prefix list:  <https://w3id.org/list#> 
+prefix express:  <https://w3id.org/express#> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix xsd:  <http://www.w3.org/2001/XMLSchema#> 
+prefix owl:  <http://www.w3.org/2002/07/owl#> 
+SELECT ?c
+ WHERE
+ {
+?a ifc:relatedElements_IfcRelContainedInSpatialStructure ?c.
+?c a ifc:IfcWindow.
+?a ifc:relatingStructure_IfcRelContainedInSpatialStructure ?b.
+?b ifc:name_IfcRoot ?d.
+?d express:hasString "Level 2".
+}
+
+
+
+
+

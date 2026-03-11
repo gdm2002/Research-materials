@@ -1,0 +1,1043 @@
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_37670,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37674,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDefines,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37676,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDefines,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37678,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDefines,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelAggregates_37679,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingObject_IfcRelDecomposes,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelContainedInSpatialStructure_37680,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingStructure_IfcRelContainedInSpatialStructure,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelAggregates_37701,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDecomposes,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37845,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDefines,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37846,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDefines,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37847,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatedObjects_IfcRelDefines,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcBuildingStorey_43,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#name_IfcRoot,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_211,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_375,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_538,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_856,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1924,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2077,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2271,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2580,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1146,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1312,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1545,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1762,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2856,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3015,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3248,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3465,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3602,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3732,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6127,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6210,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7198,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7415,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7647,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7704,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7756,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7808,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7860,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7912,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_8290,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_8346,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_12576,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_12935,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13290,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13644,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13999,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_14353,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_14708,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15062,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15916,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15967,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_16018,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_16069,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_19260,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20642,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20675,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20704,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20780,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20859,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20914,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20969,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21036,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21103,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21181,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21290,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21931,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21983,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22035,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22087,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22139,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22191,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22243,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22295,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22347,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22399,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24006,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24074,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24132,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24190,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24248,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24306,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24374,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24442,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35211,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35306,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35711,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35742,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36013,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36039,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36385,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36414,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36443,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36472,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5365,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5415,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5465,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5515,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5565,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5610,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5654,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5698,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5772,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5824,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5869,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5913,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5957,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6001,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6045,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_31328,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_31373,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35095,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35253,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35349,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35394,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_9058,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_32021,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36678,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36852,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37246,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37377,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37673,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_37670
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_37670,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_212,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_211
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_211,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_376,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_375
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_375,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_539,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_538
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_538,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_857,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_856
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_856,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_1925,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1924
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1924,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_2078,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2077
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2077,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_2272,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2271
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2271,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_2581,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2580
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2580,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_188,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_1147,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1146
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1146,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_1313,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1312
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1312,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_1546,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1545
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1545,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_1763,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1762
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_1762,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_2857,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2856
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_2856,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_3016,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3015
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3015,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_3249,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3248
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3248,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_3466,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3465
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3465,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_3603,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3602
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3602,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_3733,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3732
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_3732,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_6128,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6127
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6127,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_6211,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6210
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6210,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7199,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7198
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7198,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7416,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7415
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7415,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7648,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7647
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7647,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7705,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7704
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7704,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7757,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7756
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7756,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7809,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7808
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7808,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7861,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7860
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7860,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_7913,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7912
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_7912,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_8291,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_8290
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_8290,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_8347,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_8346
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_8346,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_12577,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_12576
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_12576,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_12936,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_12935
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_12935,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_13291,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13290
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13290,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_13645,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13644
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13644,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_14000,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13999
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_13999,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_14354,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_14353
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_14353,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_14709,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_14708
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_14708,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_15063,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15062
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15062,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_15917,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15916
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15916,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_15968,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15967
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_15967,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_16019,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_16018
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_16018,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_16070,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_16069
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_16069,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_19261,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_19260
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_19260,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20643,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20642
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20642,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20676,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20675
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20675,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20705,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20704
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20704,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20781,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20780
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20780,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20860,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20859
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20859,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20915,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20914
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20914,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_20970,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20969
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_20969,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_21037,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21036
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21036,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_21104,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21103
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21103,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_21182,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21181
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21181,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_21291,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21290
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21290,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_21932,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21931
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21931,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_21984,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21983
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_21983,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22036,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22035
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22035,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22088,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22087
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22087,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22140,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22139
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22139,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22192,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22191
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22191,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22244,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22243
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22243,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22296,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22295
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22295,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22348,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22347
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22347,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_22400,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22399
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_22399,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24007,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24006
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24006,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24075,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24074
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24074,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24133,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24132
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24132,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24191,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24190
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24190,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24249,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24248
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24248,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24307,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24306
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24306,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24375,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24374
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24374,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_24443,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24442
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_24442,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35212,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35211
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35211,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35307,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35306
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35306,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35712,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35711
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35711,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35743,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35742
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35742,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36014,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36013
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36013,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36040,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36039
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36039,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36386,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36385
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36385,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36415,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36414
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36414,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36444,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36443
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36443,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36473,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36472
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36472,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_1124,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5366,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5365
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5365,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5416,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5415
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5415,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5466,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5465
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5465,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5516,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5515
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5515,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5566,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5565
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5565,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5611,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5610
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5610,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5655,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5654
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5654,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5699,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5698
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5698,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5773,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5772
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5772,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5825,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5824
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5824,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5870,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5869
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5869,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5914,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5913
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5913,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_5958,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5957
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_5957,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_6002,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6001
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6001,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_6046,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6045
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_6045,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_31329,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_31328
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_31328,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_31374,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_31373
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_31373,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35096,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35095
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35095,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35254,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35253
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35253,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35350,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35349
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35349,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_35395,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35394
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_35394,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_5359,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_9059,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_9058
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_9058,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_32022,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_32021
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_32021,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_8978,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36679,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36678
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36678,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_36853,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36852
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_36852,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37247,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37246
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37246,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
+,,
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcRelDefinesByProperties_37378,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#relatingPropertyDefinition_IfcRelDefinesByProperties,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37377
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySet_37377,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#hasProperties_IfcPropertySet,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcPropertySingleValue_36608,http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#nominalValue_IfcPropertySingleValue,http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315
+http://linkedbuildingdata.net/ifc/resources20200913_105555/IfcLabel_38315,https://w3id.org/express#hasString,Level 2
