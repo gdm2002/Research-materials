@@ -1,0 +1,357 @@
+Application,IfcApplication
+Arbitrary Closed Profile Def,IfcArbitraryClosedProfileDef
+Arbitrary Open Profile Def,IfcArbitraryOpenProfileDef
+Arbitrary Profile Def With Voids,IfcArbitraryProfileDefWithVoids
+Area Measure,IfcAreaMeasure
+Axis2 Placement2 D,IfcAxis2Placement2D
+Axis2 Placement3 D,IfcAxis2Placement3D
+Beam,IfcBeam
+Boolean,IfcBoolean
+Boolean Clipping Result,IfcBooleanClippingResult
+Building,IfcBuilding
+Building Storey,IfcBuildingStorey
+Cartesian Point,IfcCartesianPoint
+Cartesian Point_ List,IfcCartesianPoint_List
+Cartesian Transformation Operator3 D,IfcCartesianTransformationOperator3D
+Circle,IfcCircle
+Circle Profile Def,IfcCircleProfileDef
+Colour Rgb,IfcColourRgb
+Composite Curve,IfcCompositeCurve
+Composite Curve Segment,IfcCompositeCurveSegment
+Composite Curve Segment_ List,IfcCompositeCurveSegment_List
+Compound Plane Angle Measure,IfcCompoundPlaneAngleMeasure
+Connected Face Set,IfcConnectedFaceSet
+Connection Surface Geometry,IfcConnectionSurfaceGeometry
+Conversion Based Unit,IfcConversionBasedUnit
+Covering,IfcCovering
+Curve Bounded Plane,IfcCurveBoundedPlane
+Curve Style,IfcCurveStyle
+Curve Style Font,IfcCurveStyleFont
+Curve Style Font Pattern,IfcCurveStyleFontPattern
+Curve Style Font Pattern_ List,IfcCurveStyleFontPattern_List
+Dimensional Exponents,IfcDimensionalExponents
+Dimension Count,IfcDimensionCount
+Direction,IfcDirection
+Door,IfcDoor
+Door Lining Properties,IfcDoorLiningProperties
+Door Style,IfcDoorStyle
+Draughting Pre Defined Curve Font,IfcDraughtingPreDefinedCurveFont
+Element Quantity,IfcElementQuantity
+Extruded Area Solid,IfcExtrudedAreaSolid
+Face,IfcFace
+Face Based Surface Model,IfcFaceBasedSurfaceModel
+Face Bound,IfcFaceBound
+Face Outer Bound,IfcFaceOuterBound
+Fill Area Style,IfcFillAreaStyle
+Fill Area Style Hatching,IfcFillAreaStyleHatching
+Footing,IfcFooting
+Furnishing Element,IfcFurnishingElement
+Furniture Type,IfcFurnitureType
+Geometric Representation Context,IfcGeometricRepresentationContext
+Geometric Representation Sub Context,IfcGeometricRepresentationSubContext
+Geometric Set,IfcGeometricSet
+Globally Unique Id,IfcGloballyUniqueId
+dentifier,IfcIdentifier
+nteger,IfcInteger
+Label,IfcLabel
+Label_ List,IfcLabel_List
+Length Measure,IfcLengthMeasure
+Length Measure_ List,IfcLengthMeasure_List
+Local Placement,IfcLocalPlacement
+Mapped Item,IfcMappedItem
+Material,IfcMaterial
+Material Definition Representation,IfcMaterialDefinitionRepresentation
+Material Layer,IfcMaterialLayer
+Material Layer Set,IfcMaterialLayerSet
+Material Layer Set Usage,IfcMaterialLayerSetUsage
+Material Layer_ List,IfcMaterialLayer_List
+Measure With Unit,IfcMeasureWithUnit
+Member,IfcMember
+Normalised Ratio Measure,IfcNormalisedRatioMeasure
+Opening Element,IfcOpeningElement
+Organization,IfcOrganization
+Owner History,IfcOwnerHistory
+Parameter Value,IfcParameterValue
+Person,IfcPerson
+Person And Organization,IfcPersonAndOrganization
+Plane,IfcPlane
+Plane Angle Measure,IfcPlaneAngleMeasure
+Polygonal Bounded Half Space,IfcPolygonalBoundedHalfSpace
+Polyline,IfcPolyline
+Poly Loop,IfcPolyLoop
+Positive Length Measure,IfcPositiveLengthMeasure
+Positive Ratio Measure,IfcPositiveRatioMeasure
+Postal Address,IfcPostalAddress
+Presentation Layer Assignment,IfcPresentationLayerAssignment
+Presentation Style Assignment,IfcPresentationStyleAssignment
+Product Definition Shape,IfcProductDefinitionShape
+Project,IfcProject
+Property Set,IfcPropertySet
+Property Single Value,IfcPropertySingleValue
+Quantity Area,IfcQuantityArea
+Railing,IfcRailing
+Ratio Measure,IfcRatioMeasure
+Real,IfcReal
+Rectangle Profile Def,IfcRectangleProfileDef
+Rel Aggregates,IfcRelAggregates
+Rel Associates Material,IfcRelAssociatesMaterial
+Rel Connects Path Elements,IfcRelConnectsPathElements
+Rel Contained In Spatial Structure,IfcRelContainedInSpatialStructure
+Rel Defines By Properties,IfcRelDefinesByProperties
+Rel Defines By Type,IfcRelDefinesByType
+Rel Fills Element,IfcRelFillsElement
+Rel Space Boundary,IfcRelSpaceBoundary
+Rel Voids Element,IfcRelVoidsElement
+Representation Map,IfcRepresentationMap
+Representation Map_ List,IfcRepresentationMap_List
+Representation_ List,IfcRepresentation_List
+Roof,IfcRoof
+Shape Representation,IfcShapeRepresentation
+Site,IfcSite
+S I Unit,IfcSIUnit
+Slab,IfcSlab
+Space,IfcSpace
+Specular Exponent,IfcSpecularExponent
+Stair,IfcStair
+Stair Flight,IfcStairFlight
+Styled Item,IfcStyledItem
+Styled Representation,IfcStyledRepresentation
+Surface Of Linear Extrusion,IfcSurfaceOfLinearExtrusion
+Surface Style,IfcSurfaceStyle
+Surface Style Rendering,IfcSurfaceStyleRendering
+Trimmed Curve,IfcTrimmedCurve
+Unit Assignment,IfcUnitAssignment
+Volume Measure,IfcVolumeMeasure
+Wall,IfcWall
+Wall Standard Case,IfcWallStandardCase
+Window,IfcWindow
+Window Lining Properties,IfcWindowLiningProperties
+Window Style,IfcWindowStyle
+address Lines,addressLines_IfcPostalAddress
+agreement Flag,agreementFlag_IfcHalfSpaceSolid
+amount Of Substance Exponent,amountOfSubstanceExponent_IfcDimensionalExponents
+application Developer,applicationDeveloper_IfcApplication
+application Full Name,applicationFullName_IfcApplication
+application Identifier,applicationIdentifier_IfcApplication
+area Value,areaValue_IfcQuantityArea
+assembly Place,assemblyPlace_IfcFurnitureType
+assigned Items,assignedItems_IfcPresentationLayerAssignment
+axis,axis_IfcAxis2Placement3D
+base Surface,baseSurface_IfcHalfSpaceSolid
+basis Curve,basisCurve_IfcTrimmedCurve
+basis Surface,basisSurface_IfcCurveBoundedPlane
+blue,blue_IfcColourRgb
+bounds,bounds_IfcFace
+bound,bound_IfcFaceBound
+building Address,buildingAddress_IfcBuilding
+cfs Faces,cfsFaces_IfcConnectedFaceSet
+change Action,changeAction_IfcOwnerHistory
+composition Type,compositionType_IfcSpatialStructureElement
+connection Geometry,connectionGeometry_IfcRelSpaceBoundary
+construction Type,constructionType_IfcDoorStyle
+construction Type,constructionType_IfcWindowStyle
+context Of Items,contextOfItems_IfcRepresentation
+context Type,contextType_IfcRepresentationContext
+conversion Factor,conversionFactor_IfcConversionBasedUnit
+coordinate Space Dimension,coordinateSpaceDimension_IfcGeometricRepresentationContext
+coordinates,coordinates_IfcCartesianPoint
+country,country_IfcPostalAddress
+creation Date,creationDate_IfcOwnerHistory
+curve Colour,curveColour_IfcCurveStyle
+curve Font,curveFont_IfcCurveStyle
+curve,curve_IfcArbitraryOpenProfileDef
+depth,depth_IfcExtrudedAreaSolid
+depth,depth_IfcSurfaceOfLinearExtrusion
+description,description_IfcOrganization
+description,description_IfcRoot
+dimensions,dimensions_IfcNamedUnit
+direction Ratios,directionRatios_IfcDirection
+direction Sense,directionSense_IfcMaterialLayerSetUsage
+electric Current Exponent,electricCurrentExponent_IfcDimensionalExponents
+elements,elements_IfcGeometricSet
+element Type,elementType_IfcElementType
+elevation,elevation_IfcBuildingStorey
+extruded Direction,extrudedDirection_IfcExtrudedAreaSolid
+extruded Direction,extrudedDirection_IfcSurfaceOfLinearExtrusion
+fbsm Faces,fbsmFaces_IfcFaceBasedSurfaceModel
+fill Styles,fillStyles_IfcFillAreaStyle
+first Operand,firstOperand_IfcBooleanResult
+for Layer Set,forLayerSet_IfcMaterialLayerSetUsage
+given Name,givenName_IfcPerson
+global Id,globalId_IfcRoot
+green,green_IfcColourRgb
+has Boolean,hasBoolean
+has Contents,hasContents
+has Double,hasDouble
+has Integer,hasInteger
+has Logical,hasLogical
+has Next,hasNext
+has Properties,hasProperties_IfcPropertySet
+has Property Sets,hasPropertySets_IfcTypeObject
+has Space Area,hasSpaceArea
+has String,hasString
+hatch Line Angle,hatchLineAngle_IfcFillAreaStyleHatching
+hatch Line Appearance,hatchLineAppearance_IfcFillAreaStyleHatching
+inner Curves,innerCurves_IfcArbitraryProfileDefWithVoids
+interior Or Exterior Space,interiorOrExteriorSpace_IfcSpace
+internal Or External Boundary,internalOrExternalBoundary_IfcRelSpaceBoundary
+invisible Segment Length,invisibleSegmentLength_IfcCurveStyleFontPattern
+items,items_IfcRepresentation
+item,item_IfcStyledItem
+layer Set Direction,layerSetDirection_IfcMaterialLayerSetUsage
+layer Set Name,layerSetName_IfcMaterialLayerSet
+layer Thickness,layerThickness_IfcMaterialLayer
+length Exponent,lengthExponent_IfcDimensionalExponents
+local Origin,localOrigin_IfcCartesianTransformationOperator
+location,location_IfcPlacement
+long Name,longName_IfcProject
+long Name,longName_IfcSpatialStructureElement
+luminous Intensity Exponent,luminousIntensityExponent_IfcDimensionalExponents
+mapped Representation,mappedRepresentation_IfcRepresentationMap
+mapping Origin,mappingOrigin_IfcRepresentationMap
+mapping Source,mappingSource_IfcMappedItem
+mapping Target,mappingTarget_IfcMappedItem
+mass Exponent,massExponent_IfcDimensionalExponents
+master Representation,masterRepresentation_IfcTrimmedCurve
+material Layers,materialLayers_IfcMaterialLayerSet
+material,material_IfcMaterialLayer
+method Of Measurement,methodOfMeasurement_IfcElementQuantity
+name,name_IfcConversionBasedUnit
+name,name_IfcCurveStyleFont
+name,name_IfcMaterial
+name,name_IfcOrganization
+name,name_IfcPhysicalQuantity
+name,name_IfcPreDefinedItem
+name,name_IfcPresentationLayerAssignment
+name,name_IfcPresentationStyle
+name,name_IfcProperty
+name,name_IfcRoot
+name,name_IfcSIUnit
+nominal Value,nominalValue_IfcPropertySingleValue
+number Of Riser,numberOfRiser_IfcStairFlight
+number Of Treads,numberOfTreads_IfcStairFlight
+object Placement,objectPlacement_IfcProduct
+object Type,objectType_IfcObject
+offset From Reference Line,offsetFromReferenceLine_IfcMaterialLayerSetUsage
+operation Type,operationType_IfcDoorStyle
+operation Type,operationType_IfcWindowStyle
+operator,operator_IfcBooleanResult
+orientation,orientation_IfcFaceBound
+outer Boundary,outerBoundary_IfcCurveBoundedPlane
+outer Curve,outerCurve_IfcArbitraryClosedProfileDef
+overall Height,overallHeight_IfcDoor
+overall Height,overallHeight_IfcWindow
+overall Width,overallWidth_IfcDoor
+overall Width,overallWidth_IfcWindow
+owner History,ownerHistory_IfcRoot
+owning Application,owningApplication_IfcOwnerHistory
+owning User,owningUser_IfcOwnerHistory
+parameter Takes Precedence,parameterTakesPrecedence_IfcDoorStyle
+parameter Takes Precedence,parameterTakesPrecedence_IfcWindowStyle
+parent Context,parentContext_IfcGeometricRepresentationSubContext
+parent Curve,parentCurve_IfcCompositeCurveSegment
+pattern List,patternList_IfcCurveStyleFont
+pattern Start,patternStart_IfcFillAreaStyleHatching
+phase,phase_IfcProject
+physical Or Virtual Boundary,physicalOrVirtualBoundary_IfcRelSpaceBoundary
+placement Rel To,placementRelTo_IfcLocalPlacement
+points,points_IfcPolyline
+polygonal Boundary,polygonalBoundary_IfcPolygonalBoundedHalfSpace
+polygon,polygon_IfcPolyLoop
+position,position_IfcConic
+position,position_IfcElementarySurface
+position,position_IfcParameterizedProfileDef
+position,position_IfcPolygonalBoundedHalfSpace
+position,position_IfcSweptAreaSolid
+position,position_IfcSweptSurface
+postal Code,postalCode_IfcPostalAddress
+precision,precision_IfcGeometricRepresentationContext
+predefined Type,predefinedType_IfcCovering
+predefined Type,predefinedType_IfcFooting
+predefined Type,predefinedType_IfcRailing
+predefined Type,predefinedType_IfcSlab
+profile Type,profileType_IfcProfileDef
+quantities,quantities_IfcElementQuantity
+radius,radius_IfcCircle
+radius,radius_IfcCircleProfileDef
+red,red_IfcColourRgb
+ref Direction,refDirection_IfcAxis2Placement2D
+ref Direction,refDirection_IfcAxis2Placement3D
+ref Elevation,refElevation_IfcSite
+ref Latitude,refLatitude_IfcSite
+reflectance Method,reflectanceMethod_IfcSurfaceStyleRendering
+ref Longitude,refLongitude_IfcSite
+region,region_IfcPostalAddress
+related Building Element,relatedBuildingElement_IfcRelFillsElement
+related Building Element,relatedBuildingElement_IfcRelSpaceBoundary
+related Connection Type,relatedConnectionType_IfcRelConnectsPathElements
+related Elements,relatedElements_IfcRelContainedInSpatialStructure
+related Element,relatedElement_IfcRelConnectsElements
+related Objects,relatedObjects_IfcRelAssociates
+related Objects,relatedObjects_IfcRelDecomposes
+related Objects,relatedObjects_IfcRelDefines
+related Opening Element,relatedOpeningElement_IfcRelVoidsElement
+relating Building Element,relatingBuildingElement_IfcRelVoidsElement
+relating Connection Type,relatingConnectionType_IfcRelConnectsPathElements
+relating Element,relatingElement_IfcRelConnectsElements
+relating Material,relatingMaterial_IfcRelAssociatesMaterial
+relating Object,relatingObject_IfcRelDecomposes
+relating Opening Element,relatingOpeningElement_IfcRelFillsElement
+relating Property Definition,relatingPropertyDefinition_IfcRelDefinesByProperties
+relating Space,relatingSpace_IfcRelSpaceBoundary
+relating Structure,relatingStructure_IfcRelContainedInSpatialStructure
+relating Type,relatingType_IfcRelDefinesByType
+relative Placement,relativePlacement_IfcLocalPlacement
+representation Contexts,representationContexts_IfcProject
+representation Identifier,representationIdentifier_IfcRepresentation
+representation Maps,representationMaps_IfcTypeProduct
+representations,representations_IfcProductRepresentation
+representation Type,representationType_IfcRepresentation
+representation,representation_IfcProduct
+represented Material,representedMaterial_IfcMaterialDefinitionRepresentation
+riser Height,riserHeight_IfcStairFlight
+same Sense,sameSense_IfcCompositeCurveSegment
+scale,scale_IfcCartesianTransformationOperator
+second Operand,secondOperand_IfcBooleanResult
+segments,segments_IfcCompositeCurve
+self Intersect,selfIntersect_IfcCompositeCurve
+sense Agreement,senseAgreement_IfcTrimmedCurve
+shape Type,shapeType_IfcRoof
+shape Type,shapeType_IfcStair
+side,side_IfcSurfaceStyle
+sizeable,sizeable_IfcDoorStyle
+sizeable,sizeable_IfcWindowStyle
+specular Colour,specularColour_IfcSurfaceStyleRendering
+specular Highlight,specularHighlight_IfcSurfaceStyleRendering
+start Of Next Hatch Line,startOfNextHatchLine_IfcFillAreaStyleHatching
+styles,styles_IfcPresentationStyleAssignment
+styles,styles_IfcStyledItem
+styles,styles_IfcSurfaceStyle
+surface Colour,surfaceColour_IfcSurfaceStyleShading
+surface On Relating Element,surfaceOnRelatingElement_IfcConnectionSurfaceGeometry
+swept Area,sweptArea_IfcSweptAreaSolid
+swept Curve,sweptCurve_IfcSweptSurface
+tag,tag_IfcElement
+tag,tag_IfcTypeProduct
+target Scale,targetScale_IfcGeometricRepresentationSubContext
+target View,targetView_IfcGeometricRepresentationSubContext
+the Organization,theOrganization_IfcPersonAndOrganization
+the Person,thePerson_IfcPersonAndOrganization
+thermodynamic Temperature Exponent,thermodynamicTemperatureExponent_IfcDimensionalExponents
+time Exponent,timeExponent_IfcDimensionalExponents
+town,town_IfcPostalAddress
+transition,transition_IfcCompositeCurveSegment
+transparency,transparency_IfcSurfaceStyleRendering
+tread Length,treadLength_IfcStairFlight
+trim1,trim1_IfcTrimmedCurve
+trim2,trim2_IfcTrimmedCurve
+unit Component,unitComponent_IfcMeasureWithUnit
+units In Context,unitsInContext_IfcProject
+units,units_IfcUnitAssignment
+unit Type,unitType_IfcNamedUnit
+value Component,valueComponent_IfcMeasureWithUnit
+version,version_IfcApplication
+visible Segment Length,visibleSegmentLength_IfcCurveStyleFontPattern
+world Coordinate System,worldCoordinateSystem_IfcGeometricRepresentationContext
+x Dim,xDim_IfcRectangleProfileDef
+y Dim,yDim_IfcRectangleProfileDef
