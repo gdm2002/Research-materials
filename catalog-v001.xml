@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="https://w3id.org/digitalconstruction/0.3/Entities#" uri="construction%20materials%20ontology.ttl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1738290189160" name="duplicate:http://www.semanticweb.org/dongmig/ontologies/2021/8/untitled-ontology-86" uri="2024-03-20.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1738290189160" name="duplicate:http://www.semanticweb.org/dongmig/ontologies/2021/8/untitled-ontology-86" uri="2024-03-27.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1738290189160" name="duplicate:http://www.semanticweb.org/dongmig/ontologies/2021/8/untitled-ontology-86" uri="materials%20knowledge%20base_revised.ttl"/>
+    </group>
+</catalog>

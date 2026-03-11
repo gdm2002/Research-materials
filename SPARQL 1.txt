@@ -1,0 +1,7 @@
+PREFIX LCI: http://www.semanticweb.org/dongmig/ontologies/2021/8/untitled-ontology-86#
+Select ?gray ?gray_unit
+Where
+{
+Component Instance LCI:Gray_energy ?gray
+Component Instance LCI:Gray_energy_unit ?gray_unit 
+}
