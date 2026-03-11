@@ -1,0 +1,23 @@
+inst:IfcDoor_8114  rdf:type  ifc:IfcDoor .
+
+inst:IfcDoor_8114  ifc:tag_IfcElement  inst:IfcIdentifier_47862 ;
+        ifc:overallHeight_IfcDoor  inst:IfcPositiveLengthMeasure_47690 .
+
+inst:IfcPositiveLengthMeasure_47690
+        rdf:type           ifc:IfcPositiveLengthMeasure ;
+        express:hasDouble  "2.032"^^xsd:double
+
+inst:IfcGloballyUniqueId_47860
+        rdf:type           ifc:IfcGloballyUniqueId ;
+        express:hasString  "1hOSvn6df7F8_7GcBWlS9F" .
+
+inst:IfcSpace_1782  rdf:type  ifc:IfcSpace .
+
+inst:IfcSpace_1782  ifc:name_IfcRoot    inst:IfcLabel_41003 ;
+        ifc:longName_IfcSpatialStructureElement  inst:IfcLabel_38353 ;
+
+inst:IfcLabel_38353  rdf:type  ifc:IfcLabel ;
+        express:hasString  "Living Room" 
+
+inst:IfcSpace_1782
+         pdt:hasSpaceArea "27.66"^^xsd:double
