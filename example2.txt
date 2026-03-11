@@ -1,0 +1,53 @@
+PATH query
+-------------------------
+PATHS START ?x 
+END ?p =ifc:IfcWall 
+VIA ?z
+
+PATHS START ?x 
+END ?p ="Plan E2" 
+VIA ?z
+
+PATHS START ?x 
+END ?p ="IsExternal"
+VIA ?z
+
+PATHS START ?x 
+END ?p =true 
+VIA ?z
+
+PATHS START ?x 
+END ?p = ifc:IfcGloballyUniqueId  
+VIA ?z
+
+second-floor external wall
+
+SPARQL query
+----------------------------------------
+
+prefix ifc:  <http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#> 
+prefix inst:  <http://linkedbuildingdata.net/ifc/resources20200811_130356/>
+prefix list:  <https://w3id.org/list#> 
+prefix express:  <https://w3id.org/express#> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix xsd:  <http://www.w3.org/2001/XMLSchema#> 
+prefix owl:  <http://www.w3.org/2002/07/owl#> 
+SELECT  ?d ?L
+WHERE
+{
+?a ifc:relatingStructure_IfcRelContainedInSpatialStructure ?b.
+?b ifc:name_IfcRoot ?c.
+?c express:hasString "Plan E2".
+?a ifc:relatedElements_IfcRelContainedInSpatialStructure ?d.
+?d a ifc:IfcWall.
+?e ifc:relatedObjects_IfcRelDefines ?d.
+?e ifc:relatingPropertyDefinition_IfcRelDefinesByProperties ?f.
+?f ifc:hasProperties_IfcPropertySet ?g.
+?g ifc:name_IfcProperty ?h.
+?h express:hasString "IsExternal".
+?g ifc:nominalValue_IfcPropertySingleValue ?j.
+?j express:hasBoolean true.
+?d ifc:globalId_IfcRoot ?k.
+?k a ifc:IfcGloballyUniqueId.
+?k  express:hasString ?L.
+}
