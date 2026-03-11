@@ -1,0 +1,47 @@
+# baseURI: http://bimsparql.org/product-geometry
+# imports: http://spinrdf.org/spin
+# baseURI: http://bimsparql.org/geometry
+# baseURI: http://bimsparql.org/query-rewriting
+# imports: http://rdfrepo.ddss.nl/rewrite
+# imports: http://www.buildingsmart-tech.org/ifcOWL/IFC2X3_TC1
+# baseURI: http://bimsparql.org/spatial
+
+prefix owl:     <http://www.w3.org/2002/07/owl#> .
+prefix pdt:     <http://bimsparql.org/product#> .
+prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+prefix sp:      <http://spinrdf.org/sp#> .
+prefix spin:    <http://spinrdf.org/spin#> .
+prefix spl:     <http://spinrdf.org/spl#> .
+prefix spt:     <http://bimsparql.org/spatial#> .
+prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+prefix impl:     <http://bimsparql.org/impl#> .
+prefix ifc: <http://standards.buildingsmart.org/IFC/DEV/IFC2x3/TC1/OWL#>
+prefix inst: <http://linkedbuildingdata.net/ifc/resources20200913_105555/>
+prefix list: <https://w3id.org/list#>
+prefix express: <https://w3id.org/express#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix geom:    <http://bimsparql.org/geometry#> .
+prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+prefix dc:    <http://purl.org/dc/elements/1.1/> .
+prefix schm:   <http://bimsparql.org/schema#> .
+prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+prefix pset:  <http://bimsparql.org/pset#> .
+prefix ifcdoc: <http://www.buildingsmart-tech.org/ifc/IFC4/final#> .
+prefix qto:   <http://bimsparql.org/pset#> .
+prefix rw:      <http://rdfrepo.ddss.nl/rewrite#> .
+prefix test:    <http://rdfrepo.ddss.nl/rule/test#> .
+
+SELECT ?c ?value
+WHERE
+{
+?c a ifc:IfcWindow.
+?x ifc:relatedObjects_IfcRelDefines ?c.
+?x ifc:relatingPropertyDefinition_IfcRelDefinesByProperties ?y.
+?y ifc:hasProperties_IfcPropertySet ?z.
+?z ifc:name_IfcProperty ?h.
+?h express:hasString "Height".
+?z ifc:nominalValue_IfcPropertySingleValue ?yy.
+?yy express:hasDouble ?value.
+FILTER (?value > 1)
+}
